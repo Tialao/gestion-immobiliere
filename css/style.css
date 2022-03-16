@@ -204,7 +204,7 @@ body{
     top: 1434px;
 
     border: 1px solid #0C2E8A;
-    }
+}
 
 .bgimg{
     background-image: url(../img/estate_2.jpg);
@@ -281,7 +281,6 @@ body{
         text-align: center;
         margin: 0 10px;
     }
-
 
     .trait{
         width: 70px;   
